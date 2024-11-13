@@ -20,7 +20,7 @@ This repository contains a Node.js microservice that supports CRUD operations wi
 
 Make sure you have the following software installed on your machine:
 
-- [Docker](https://www.docker.com/get-started) (including Docker Compose)
+- [Docker](https://www.docker.com/get-started) (including Docker Desktop)
 - [Postman](https://www.postman.com/) (for testing the API)
 
 ## Setup and Installation
